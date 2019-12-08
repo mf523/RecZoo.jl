@@ -1,0 +1,10 @@
+name = "RecZoo"
+uuid = "06fb3633-03bf-442c-a508-2011057f433a"
+keywords = ["recommendation", "recommender"]
+license = "MIT"
+desc = "The next-generation Julia package manager."
+version = "0.0.1"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+
