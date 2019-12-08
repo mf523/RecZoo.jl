@@ -1,8 +1,8 @@
 name = "RecZoo"
-uuid = "06fb3633-03bf-442c-a508-2011057f433a"
+uuid = "a2d3a4f8-6081-5b5c-b23e-93f26afe21d9"
 keywords = ["recommendation", "recommender"]
 license = "MIT"
-desc = "The next-generation Julia package manager."
+desc = "A collection of recommendation models and examples"
 version = "0.0.1"
 
 [deps]
